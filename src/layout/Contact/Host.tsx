@@ -9,7 +9,6 @@ const Host = () => {
     <>
       <HostContainer>
         <HostInfo person={groom} />
-        <HostInfo person={bride} />
       </HostContainer>
     </>
   );
