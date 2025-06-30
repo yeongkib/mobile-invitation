@@ -4,7 +4,7 @@ import data from 'data.json';
 import { BrideAndGroom } from '@/types/data.ts';
 
 const Host = () => {
-  const { groom, bride } = data.greeting.host;
+  const { groom } = data.greeting.host;
   return (
     <>
       <HostContainer>

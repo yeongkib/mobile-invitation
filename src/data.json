@@ -90,7 +90,9 @@
     "address1": "오리대가",
     "address2": "경기 수원시 팔달구 경수대로565번길 27\n031-223-5292",
     "naverMap": "https://map.naver.com/p/search/%EC%98%A4%EB%A6%AC%EB%8C%80%EA%B0%80/place/11633599",
-    "kakaoMap": "https://map.kakao.com/?urlX=506341.9999999993&urlY=1049100.0000000023&urlLevel=3&itemId=10637391&q=%EC%98%A4%EB%A6%AC%EB%8C%80%EA%B0%80&srcid=10637391&map_type=TYPE_MAP"
+    "kakaoMap": "https://map.kakao.com/?urlX=506341.9999999993&urlY=1049100.0000000023&urlLevel=3&itemId=10637391&q=%EC%98%A4%EB%A6%AC%EB%8C%80%EA%B0%80&srcid=10637391&map_type=TYPE_MAP",
+    "lat": 37.275793,
+    "lon": 127.028628
   },
   "emojis": [
     "❤️",

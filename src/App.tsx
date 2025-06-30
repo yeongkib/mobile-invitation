@@ -1,18 +1,18 @@
-import { useEffect, useRef, useState } from 'react';
+import { useRef } from 'react';
 import { NavermapsProvider } from 'react-naver-maps';
 import { Heading1 } from '@/components/Text.tsx';
 import Wrapper from '@/components/Wrapper.tsx';
 import Container from '@/layout/Container.tsx';
 import FloatingBar from '@/layout/FloatingBar/FloatingBar.tsx';
 import GalleryWrap from '@/layout/Gallery/GalleryWrap.tsx';
-import Guestbook from '@/layout/Guestbook/Guestbook.tsx';
+//import Guestbook from '@/layout/Guestbook/Guestbook.tsx';
 import Invitation from '@/layout/Invitation/Invitation.tsx';
 import Location from '@/layout/Location/Location.tsx';
 import Main from '@/layout/Main/Main.tsx';
 
 function App() {
   const ncpClientId = import.meta.env.VITE_APP_NAVERMAPS_CLIENT_ID;
-  const [isVisible, setIsVisible] = useState(false);
+  //const [isVisible, setIsVisible] = useState(false);
   const galleryRef = useRef(null);
 /*
   useEffect(() => {
